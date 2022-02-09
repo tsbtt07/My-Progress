@@ -1,8 +1,8 @@
 # My-Progress
-Feb, 8th
+**Feb, 8th**
   * First time learning Git.
 
-Feb, 9th
+__Feb, 9th__
   * Still learning about Git.
   * Make something on GitHub.
   * Still trying.
